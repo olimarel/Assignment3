@@ -1,1 +1,1 @@
-java Main.java
+java src/Main.java
