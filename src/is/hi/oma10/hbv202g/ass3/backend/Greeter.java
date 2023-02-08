@@ -1,4 +1,4 @@
-package src;
+package src.is.hi.oma10.hbv202g.ass3.backend;
 
 public class Greeter {
 

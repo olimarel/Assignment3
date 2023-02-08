@@ -1,1 +1,2 @@
-javac src/Main.java
+javac src/is/hi/oma10/hbv202g/ass3/frontend/Main.java
+
